@@ -47,8 +47,8 @@ That's all. It'll run on Android or iOS, emulator or real device.
 
 ## Screenshots
 
-![Home Screen](https://github.com/user-attachments/assets/61c8512f-9218-44db-b343-c9fcdc1c1c23)
-![Add Expense](https://github.com/user-attachments/assets/d361cc3f-088b-4127-9ef7-d7e2e21955f7)
+![Home Screen](https://github.com/user-attachments/assets/61c8512f-9218-44db-b343-c9fcdc1c1c23) | ![Add Expense](https://github.com/user-attachments/assets/d361cc3f-088b-4127-9ef7-d7e2e21955f7)
+
 
 ---
 
