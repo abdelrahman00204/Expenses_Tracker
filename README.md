@@ -1,16 +1,55 @@
-# getting_serious
+# Expenses Tracker
 
-A new Flutter project.
+Ever get to the end of the month and wonder where all your money went? This app helps you stay on top of that.
 
-## Getting Started
+Expenses Tracker is a simple Flutter app that lets you log what you spend, see it broken down by category, and get a quick visual sense of where your money is going — all in a clean interface that works in both light and dark mode.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## What it does
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+You add an expense by giving it a name, an amount, a date, and a category. That's it. The app then shows all your expenses in a list and automatically updates a bar chart at the top so you can see at a glance which category is eating most of your budget.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+If you logged something by mistake, just swipe it away.
+
+The categories are: **Food**, **Entertainment**, **Travel**, **Utilities**, and **Other** — enough to cover most day-to-day spending.
+
+---
+
+## How to run it
+
+You'll need Flutter installed on your machine. If you don't have it yet, grab it from [flutter.dev](https://flutter.dev/docs/get-started/install).
+
+Then:
+
+```bash
+git clone https://github.com/abdelrahman00204/Expenses_Tracker.git
+cd Expenses_Tracker
+flutter pub get
+flutter run
+```
+
+That's all. It'll run on Android or iOS, emulator or real device.
+
+---
+
+## Features
+
+- Log expenses with a name, amount, date, and category
+- Bar chart that updates automatically as you add expenses
+- Swipe to delete any expense
+- Dark and light mode support (follows system setting)
+- 5 categories: Food, Entertainment, Travel, Utilities, and Other
+
+---
+
+## Screenshots
+
+> _Add your screenshots here_
+
+---
+
+## Built with
+
+- Flutter & Dart
+- Material 3 theming (dark mode included, follows your system setting automatically)
